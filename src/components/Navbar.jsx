@@ -75,7 +75,7 @@ const Navbar = ({notifications}) => {
         <PopUp></PopUp>
       </div>
       <div className='container-fluid'>
-        <a className='navbar-brand' href='#'>
+        <a className='navbar-brand' href='/'>
           <img alt='icon' src='/assets/img/logo web1.svg' className='logoweb1 ps-2'></img>
         </a>
         <button
